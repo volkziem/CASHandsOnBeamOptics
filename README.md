@@ -3,7 +3,7 @@ MATLAB Hands-on software for Beam Optics tutorial at the CERN Accelerator School
 
 ------------------------------------------------------------------------
 
-## Software installation before the school {#software-installation-before-the-school align="LEFT"}
+## Software installation before the school
 ---------------------------------------
 
 ### Matlab
@@ -34,7 +34,7 @@ That\'s all.
 
 ------------------------------------------------------------------------
 
-Reading material {#reading-material align="LEFT"}
+Reading material 
 ----------------
 
 [Beam optics primer using Octave or
@@ -48,7 +48,7 @@ the CAS proceedings. Consult it, if you get stuck.
 
 ------------------------------------------------------------------------
 
-Script files for the hands-on tutorial {#script-files-for-the-hands-on-tutorial align="LEFT"}
+Script files for the hands-on tutorial 
 --------------------------------------
 
 The script files from the appendix in the primer (right-click and save
