@@ -38,7 +38,7 @@ Reading material
 ----------------
 
 [Beam optics primer using Octave or
-Matlab](http://arxiv.org/abs/arXiv:1907.10987) from the arXiv. This is
+Matlab](https://arxiv.org/abs/arXiv:1907.10987) from the arXiv. This is
 also part of the CAS proceedings. We will follow this document during
 the Octave/Matlab hands-on sessions and build our own beam optics code
 in the process.
