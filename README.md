@@ -41,7 +41,8 @@ Reading material
 [Beam optics primer using Octave or Matlab](https://arxiv.org/abs/1907.10987) from arXiv. This is
 also part of the CAS proceedings. We will follow this document during
 the Octave/Matlab hands-on sessions and build our own beam optics code
-in the process.
+in the process. There is a link to the proceedings, labeled "Draft version"
+on the page of [previous CAS schools](https://cas.web.cern.ch/previous-schools).
 
 [Solution manual](vz_beam_optics_solutions.pdf), which is also part of
 the CAS proceedings. Consult it, if you get stuck.
